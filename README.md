@@ -1,6 +1,6 @@
 # EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD
-## Name : Ramitha chowdary S 
-## Register number: 212224240130
+## Name :Hiba Nasreen M
+## Register number: 212224040117
 ## Aim: 
 To Interface a 4X4 matrix keypad and show the output on 16X2 LCD display to ARM controller , and simulate it in Proteus
 ## Components required: 
@@ -185,7 +185,7 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 
-```
+```python
 #include "main.h"
 #include "lcd.h"
 #include "stdbool.h"
